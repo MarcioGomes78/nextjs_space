@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/home/mjgomes/Área de trabalho/Portifolio_DesingGrafico/VitaFisio&Move/vitta_fisio_movimento/nextjs_space/app/layout\":[\"static/media/904be59b21bd51cb-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
